@@ -1,0 +1,1 @@
+This is a personal project I am working on in my spare time to create a personal portfolio to showcase my work, have a little blog, and showcase a little more about what I do.
